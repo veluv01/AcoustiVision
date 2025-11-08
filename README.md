@@ -2,6 +2,8 @@
 
 ### *Distributed Acoustic and Visual Environmental Monitoring*
 
+## Demo Video : https://youtu.be/eMbOGk1h8Uw
+
 ![AcoustiVision](https://img.shields.io/badge/AcoustiVision-v3.0-blue)
 ![Python](https://img.shields.io/badge/python-3.7+-green)
 ![Platform](https://img.shields.io/badge/platform-Raspberry%20Pi-red)
