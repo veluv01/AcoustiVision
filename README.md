@@ -179,7 +179,7 @@ pandas>=1.3.0
 #### Flash SPL Meter
 ```bash
 # Open Arduino IDE
-# Load: AcousticMonitor.ino
+# Load: acousticNode.ino along with SPL_Meter.h and SPL_Meter.cpp
 # Select Board: "Seeed XIAO MG24 (Sense)"
 # Upload
 ```
@@ -187,7 +187,7 @@ pandas>=1.3.0
 #### Flash Vision Node
 ```bash
 # Open Arduino IDE
-# Load: AIVisionNode.ino
+# Load: aiVisionNode.ino
 # Select Board: "XIAO_ESP32C3"
 # Upload
 ```
@@ -197,10 +197,7 @@ pandas>=1.3.0
 ```bash
 # Create project directory
 mkdir ~/acoustivision
-cd ~/acoustivision
-
-# Place dashboard script here
-# (acoustivision_dashboard.py)
+cd ~/acoustivision/dashboard
 
 # Install dependencies
 pip3 install -r requirements.txt
@@ -556,10 +553,10 @@ MIT License - See LICENSE file for details
 
 ## 🙏 Acknowledgments
 
-- Seeed Studio for XIAO hardware platforms
+- Seeed Studio for XIAO and Grove Vision AI v2 hardware platforms
 - Bleak Python BLE library
 - SSCMA AI framework
-- Arduino and ESP32 communities
+- Arduino, Silicon Labs and ESP32 communities
 
 ---
 
