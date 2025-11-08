@@ -62,7 +62,7 @@ This project provides a low-cost, customizable alternative to commercial sound l
    - ArduinoBLE
    ```
 3. Download or clone this repository
-4. Open `AcousticMonitor_Arduino_BLE.ino` in Arduino IDE
+4. Open `acousticNode.ino` in Arduino IDE
 5. Select the correct board and port
 6. Upload to your XIAO MG24
 
@@ -647,3 +647,4 @@ uint8_t history_index = 0;
 **Version**: 1.0  
 **Last Updated**: November 2025  
 **Compatibility**: Seeed Studio XIAO MG24 Sense
+
