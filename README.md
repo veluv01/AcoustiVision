@@ -3,6 +3,7 @@
 ### *Distributed Acoustic and Visual Environmental Monitoring*
 
 #### Demo Video : https://youtu.be/eMbOGk1h8Uw
+#### [Silabs Project](https://community.silabs.com/s/share/a5UVm000000zifFMAQ/acoustivision-multimodal-iot-environmental-monitoring-system?language=en_US)
 
 ![AcoustiVision](https://img.shields.io/badge/AcoustiVision-v3.0-blue)
 ![Python](https://img.shields.io/badge/python-3.7+-green)
